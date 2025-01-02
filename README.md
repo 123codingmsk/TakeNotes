@@ -1,10 +1,8 @@
-# TakeNotes
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>README - TakeNotes Project</title>
 </head>
 <body>
   <h1>TakeNotes Project</h1>
@@ -61,8 +59,5 @@
   │   └── index.css
   └── package.json
   </code></pre>
-
-  <h2>License</h2>
-  <p>This project is licensed under the MIT License.</p>
 </body>
 </html>
