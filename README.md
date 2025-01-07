@@ -32,17 +32,4 @@ A simple note-taking application built with React, utilizing Material-UI for ico
    npm run dev
 Open http://localhost:3000 in your browser to view the app.
 
-##Project Structure
-takenotes/
-├── src/
-│   ├── components/
-│   │   ├── CreateArea.js
-│   │   ├── Footer.js
-│   │   ├── Header.js
-│   │   ├── Note.js
-│   ├── App.js
-│   ├── index.js
-│   └── index.css
-├── package.json
-└── README.md
 
