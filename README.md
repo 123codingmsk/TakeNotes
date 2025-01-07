@@ -6,6 +6,7 @@ A simple note-taking application built with React, utilizing Material-UI for ico
 - Add notes with a title and content.
 - Delete notes by clicking the delete button.
 - Expand the input area for creating notes by clicking on the textarea.
+- LocalStorage added for persistent notes. ( Refresh anytime )
 
 ## Components
 - **App.js**: The main component managing state and rendering the other components.
